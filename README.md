@@ -15,7 +15,7 @@ To run the Library Management System locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourUsername/Library-Management-System-Go.git
+   git clone https://github.com/KushanManahara/Library-Management-System-Go.git
 
 2. Navigate to the project directory:
 
